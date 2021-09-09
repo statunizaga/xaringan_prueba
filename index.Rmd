@@ -642,8 +642,8 @@ The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](https://yih
 
 # Fin
 
-```{r eval = TRUE}
-pagedown::chrome_print('prueba.html')
+```{r eval = FALSE}
+pagedown::chrome_print('index.html')
 
 ```
 
